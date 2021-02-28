@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://blog.easyli.com/sitemap.xml
+Sitemap: https://blog.shliv.com/sitemap.xml
