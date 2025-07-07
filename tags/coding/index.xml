@@ -1,2 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Coding on 星空的回忆</title><link>https://blog.shliv.com/tags/coding/</link><description>Recent content in Coding on 星空的回忆</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 20 Feb 2017 23:00:09 +0800</lastBuildDate><atom:link href="https://blog.shliv.com/tags/coding/index.xml" rel="self" type="application/rss+xml"/><item><title>Processing入门指南</title><link>https://blog.shliv.com/post/2017-02-20-processing-learning/</link><pubDate>Mon, 20 Feb 2017 23:00:09 +0800</pubDate><guid>https://blog.shliv.com/post/2017-02-20-processing-learning/</guid><description>&lt;h2 id="起源">起源&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Coding on 星空的回忆</title><link>https://blog.shliv.com/tags/coding/</link><description>Recent content in Coding on 星空的回忆</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 06 Jul 2025 00:27:40 +0800</lastBuildDate><atom:link href="https://blog.shliv.com/tags/coding/index.xml" rel="self" type="application/rss+xml"/><item><title>表格分栏多行代码测试</title><link>https://blog.shliv.com/post/2025-07-06/</link><pubDate>Sun, 06 Jul 2025 00:27:40 +0800</pubDate><guid>https://blog.shliv.com/post/2025-07-06/</guid><description>&lt;p>Table and code preview&lt;/p>
+&lt;p>通过以下代码预览测试的工具如下表：&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>❌ Typora&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Zed&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Hugo blog&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✅ VS Code&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✅ OneMarkdown&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✅ Github&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✅ Azure wiki&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✅ 阿里云效 （支持WebIDE）&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌✅ GitCode （预览是单行展示，不支持多行展示；但是复制代码后粘贴是多行代码）&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ coding.net&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="github-预览效果最好">Github 预览效果最好&lt;/h2>
+&lt;p>代码效果在&lt;/p>
+&lt;p>&lt;a href="https://github.com/johony/oss/blob/master/test/2025-06-21-table-code-preview.md">https://github.com/johony/oss/blob/master/test/2025-06-21-table-code-preview.md&lt;/a>&lt;/p>
+&lt;p>打开后以看到多行代码在表格中正常展示出来。&lt;/p>
+&lt;p>对比会发现，azure 必须加入代码项目才能保存暗黑主题的设置。如果微软帐号没有加入项目，刷新页面之后页面又回到亮色模式。&lt;/p>
+&lt;p>Github 公开仓库久没有这个问题，即使不登陆帐号，也可以在暗色模式下看markdown文件。&lt;/p>
+&lt;p>另外 azure 并不支持 GitHub Style Alert 样式。&lt;/p></description></item><item><title>Processing入门指南</title><link>https://blog.shliv.com/post/2017-02-20-processing-learning/</link><pubDate>Mon, 20 Feb 2017 23:00:09 +0800</pubDate><guid>https://blog.shliv.com/post/2017-02-20-processing-learning/</guid><description>&lt;h2 id="起源">起源&lt;/h2>
 &lt;p>帮助非CS学生编写程序,例如:设计师,文科类专业&lt;/p></description></item><item><title>【译文】坚持每天Coding</title><link>https://blog.shliv.com/post/2017-02-14-write-code-every-day/</link><pubDate>Tue, 14 Feb 2017 22:56:00 +0800</pubDate><guid>https://blog.shliv.com/post/2017-02-14-write-code-every-day/</guid><description>&lt;p>本文是&lt;a href="http://ejohn.org/blog/write-code-every-day/">Write Code Every Day&lt;/a>的中英文对照，给自己指定一些原则，并通过自律坚持下去，在编程之路上才能走的更远，以下是原文。&lt;/p></description></item></channel></rss>

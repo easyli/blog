@@ -1,33 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 星空的回忆</title><link>https://blog.shliv.com/post/</link><description>Recent content in Posts on 星空的回忆</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 06 Jul 2025 00:27:40 +0800</lastBuildDate><atom:link href="https://blog.shliv.com/post/index.xml" rel="self" type="application/rss+xml"/><item><title>表格分栏多行代码测试</title><link>https://blog.shliv.com/post/2025-07-06/</link><pubDate>Sun, 06 Jul 2025 00:27:40 +0800</pubDate><guid>https://blog.shliv.com/post/2025-07-06/</guid><description>&lt;p>Table and code preview&lt;/p>
 &lt;p>通过以下代码预览测试的工具如下表：&lt;/p>
 &lt;ul>
-&lt;li>❌ Typora&lt;/li>
-&lt;li>❌ Zed&lt;/li>
-&lt;li>✅ VS Code&lt;/li>
-&lt;li>✅ OneMarkdown&lt;/li>
+&lt;li>
+&lt;p>❌ Typora&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Zed&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Hugo blog&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✅ VS Code&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✅ OneMarkdown&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✅ Github&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✅ Azure wiki&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✅ 阿里云效 （支持WebIDE）&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌✅ GitCode （预览是单行展示，不支持多行展示；但是复制代码后粘贴是多行代码）&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ coding.net&lt;/p>
+&lt;/li>
 &lt;/ul>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-html" data-lang="html">&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">table&lt;/span> &lt;span style="color:#a6e22e">border&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;1&amp;#34;&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">tr&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">th&lt;/span>&amp;gt;语言&amp;lt;/&lt;span style="color:#f92672">th&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">th&lt;/span>&amp;gt;代码示例&amp;lt;/&lt;span style="color:#f92672">th&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;/&lt;span style="color:#f92672">tr&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">tr&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">td&lt;/span>&amp;gt;Python&amp;lt;/&lt;span style="color:#f92672">td&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">td&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&amp;lt;!-- 去掉下面的三个点 --&amp;gt;&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">hello_world&lt;/span>():
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> print(&lt;span style="color:#e6db74">&amp;#34;Hello, World!&amp;#34;&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> hello_world()
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;!-- raw HTML omitted -->
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">function&lt;/span> &lt;span style="color:#a6e22e">helloWorld&lt;/span>() {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">console&lt;/span>.&lt;span style="color:#a6e22e">log&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Hello, World!&amp;#34;&lt;/span>);
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">helloWorld&lt;/span>();
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-html" data-lang="html">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&amp;lt;!-- 去掉下面的三个点一行 --&amp;gt;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;/&lt;span style="color:#f92672">td&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;/&lt;span style="color:#f92672">tr&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;/&lt;span style="color:#f92672">table&lt;/span>&amp;gt;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>网易云音乐</title><link>https://blog.shliv.com/post/2021-02-28/</link><pubDate>Sun, 28 Feb 2021 18:27:40 +0800</pubDate><guid>https://blog.shliv.com/post/2021-02-28/</guid><description>&lt;!-- raw HTML omitted -->
+&lt;h2 id="github-预览效果最好">Github 预览效果最好&lt;/h2>
+&lt;p>代码效果在&lt;/p>
+&lt;p>&lt;a href="https://github.com/johony/oss/blob/master/test/2025-06-21-table-code-preview.md">https://github.com/johony/oss/blob/master/test/2025-06-21-table-code-preview.md&lt;/a>&lt;/p>
+&lt;p>打开后以看到多行代码在表格中正常展示出来。&lt;/p>
+&lt;p>对比会发现，azure 必须加入代码项目才能保存暗黑主题的设置。如果微软帐号没有加入项目，刷新页面之后页面又回到亮色模式。&lt;/p>
+&lt;p>Github 公开仓库久没有这个问题，即使不登陆帐号，也可以在暗色模式下看markdown文件。&lt;/p>
+&lt;p>另外 azure 并不支持 GitHub Style Alert 样式。&lt;/p></description></item><item><title>网易云音乐</title><link>https://blog.shliv.com/post/2021-02-28/</link><pubDate>Sun, 28 Feb 2021 18:27:40 +0800</pubDate><guid>https://blog.shliv.com/post/2021-02-28/</guid><description>&lt;!-- raw HTML omitted -->
 &lt;p>简介&lt;/p>
 
 
